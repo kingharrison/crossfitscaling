@@ -8,6 +8,30 @@ You can use the [editor on GitHub](https://github.com/kingharrison/crossfitscali
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Conversion of Row / Run / Bike
+
+### Kip
+
+### Toes To Bar
+
+### Kipping Pull Up
+
+### Butterfly Pull Up
+
+### Muscle Up
+
+### Deadlift
+
+### Clean
+
+### Snatch
+
+### Handstand
+
+### Pistol Squat
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
