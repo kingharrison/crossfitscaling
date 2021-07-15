@@ -13,15 +13,17 @@ I personally, if I cannot do a perscribed skill in a workout, do the drill or pr
 ### Conversion of Row / Run / Bike
 
 ### Kip
+- [Learning To Kip](https://www.youtube.com/watch?v=Wm1Ix8agMWA)
+- [Drills To Improve Kip](https://www.youtube.com/watch?v=ZT06FJey3lk)
 
-[Learning To Kip](https://www.youtube.com/watch?v=Wm1Ix8agMWA)
-[Drills To Improve Kip](https://www.youtube.com/watch?v=ZT06FJey3lk)
-
-### Toes To Bar
+### Strict Pull Up
+- [Strict Pull Up For Beginners](https://www.youtube.com/watch?v=EihD_pt2AFA)
+- [How To Use Resistance Band for Pull Up Progression ](https://www.youtube.com/watch?v=7yqudG7vnow)
 
 ### Kipping Pull Up
+- [A Kipping Pull-Up Instructional](https://www.youtube.com/watch?v=4ZJMblG5apg)
 
-[A Kipping Pull-Up Instructional](https://www.youtube.com/watch?v=4ZJMblG5apg)
+### Toes To Bar
 
 ### Butterfly Pull Up
 
@@ -34,6 +36,10 @@ I personally, if I cannot do a perscribed skill in a workout, do the drill or pr
 ### Snatch
 
 ### Handstand
+
+### Handstand Push Up
+
+### Handstand Walk
 
 ### Pistol Squat
 
