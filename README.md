@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## CrossFit Scaling, Progressions, and Conversions
+
+I created this site as a reference for myself when working out. If there is a particular skill in a workout that I have not yet mastered, I wanted to be able to easily see the scaling / progressions for the skill so that I may adjust my workout accordingly. As well, if there is some type of cardio in the workout (rowing / running / biking) and needed to do a different type of cardio for any reason I wanted the reference for adjusting to be easy to find. 
+
+**NOTE** I am not a CrossFit coach, this is not meant to replace actual coaching, this is use at your own risk. This is my reference and scaling and linking to publicly availabe videos organized in a way for myself that is easy to use. 
 
 You can use the [editor on GitHub](https://github.com/kingharrison/crossfitscaling/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
